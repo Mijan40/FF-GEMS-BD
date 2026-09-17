@@ -1,8 +1,8 @@
 {
-  "app_version": "1.0.0",
-  "force_update": false,
-  "maintenance": false,
-  "maintenance_message": "FF Gems is currently under maintenance. Please try again later.",
-  "update_message": "A new version of FF Gems is available. Please update your app.",
-  "download_url": "https://ffgems.gamer.free/FF_Gems.apk"
+    "app_version": "1.0.0",
+    "force_update": true,
+    "maintenance": true,
+    "maintenance_message": "FF Gems is currently under maintenance. Please try again later.",
+    "update_message": "A new version of FF Gems is available. Please update your app.",
+    "download_url": "https://ffgems.gamer.free/FF_Gems.apk"
 }
