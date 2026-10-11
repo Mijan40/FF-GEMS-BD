@@ -1,6 +1,6 @@
 {
     "app_version": "1.00",
-    "force_update": false,
+    "force_update": true,
     "maintenance": false,
     "maintenance_message": "FF Gems is currently under maintenance. Please try again later.",
     "update_message": "A new version of FF Gems is available. Please update your app.",
@@ -20,7 +20,7 @@
     "xxx_8": "ABCD",
     "xxx_9": "ABCD",
     "xxx_10": "ABCD",
-    "xxx": "ABCDbbj",
-    "yyy": "ABCDbbb",
+    "xxx": "ABCD",
+    "yyy": "ABCD",
     "download_url": "https://ffgems.gamer.free/FF_Gems.apk"
 }
